@@ -26,7 +26,7 @@
 
 ### SHOWCASE
 
-[![Watch the video]([https://cdn.discordapp.com/attachments/1091345201353728090/1097182208885805086/Desktop_2023.04.16_-_22.23.28.02.mp4])
+[![Watch the video]([Desktop_2023.04.16_-_22.23.28.02.mp4])
 
 
 ### ALL CODE BY CHATGPT AND REGENXYYYY
