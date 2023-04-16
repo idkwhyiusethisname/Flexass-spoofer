@@ -5,7 +5,7 @@
   </a>
   </kbd>
   
-  <h2 align="center">discord-connect-all</h2>
+  <h2 align="center">Name Said it all</h2>
 
   <p align="center">
     Flexass hwid spoofer hehehehe use to spoof their death nuker</b>)
