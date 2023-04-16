@@ -26,7 +26,11 @@
 
 ### SHOWCASE
 
-[![Watch the video](Desktop_2023.04.16_-_22.23.28.02.mp4)
+
+https://user-images.githubusercontent.com/92148448/232323738-5709f863-08b7-47f6-81c9-43e19243e803.mov
+
+
+---------------------------------------
 
 
 ### ALL CODE BY CHATGPT AND REGENXYYYY
