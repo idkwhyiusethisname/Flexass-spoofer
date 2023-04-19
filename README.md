@@ -22,16 +22,6 @@
 
 ---------------------------------------
 
-### SHOWCASE
-
-
-
-https://cdn.discordapp.com/attachments/1000040201000849528/1098219626392993873/2023-04-19_19-11-05.mp4
-
-
----------------------------------------
-
-
-### ALL CODE BY CHATGPT AND REGENXYYYY
+### ALL CODE BY REGENXY HELPER BY MARTY
 
 ### FUCK t0nxnthanaphat0_ L
