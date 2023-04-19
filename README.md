@@ -25,4 +25,6 @@
 
 ### update = add new reg and groff ahh proass.py
 
+### check program here if it start u can use it if not go die `https://pastebin.com/raw/jJ7dPLtW`
+
 ### FUCK t0nxnthanaphat0_ L
