@@ -16,12 +16,14 @@
 ---------------------------------------
 
 ### ⚙️ How to use 101
-* Start: `run flexzynukerv2.exe`
 * Spoofer: `run spoofer.exe` REQUIRE RUN AS ADMIN CUZ IT EDIT REG
+* Run: `flexass.exe`
 * AND REOPEN flexzynukerv2.exe AND NOW U DONE
 
 ---------------------------------------
 
 ### ALL CODE BY REGENXY HELPER BY MARTY
+
+### update = add new reg and groff ahh proass.py
 
 ### FUCK t0nxnthanaphat0_ L
