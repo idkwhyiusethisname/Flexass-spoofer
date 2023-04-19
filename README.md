@@ -26,7 +26,7 @@
 
 
 
-https://user-images.githubusercontent.com/92148448/232323738-5709f863-08b7-47f6-81c9-43e19243e803.mov
+https://cdn.discordapp.com/attachments/1000040201000849528/1098219626392993873/2023-04-19_19-11-05.mp4
 
 
 ---------------------------------------
