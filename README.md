@@ -18,7 +18,6 @@
 ### ⚙️ How to use 101
 * Spoofer: `run spoofer.exe` REQUIRE RUN AS ADMIN CUZ IT EDIT REG
 * Run: `flexass.exe`
-* AND REOPEN flexzynukerv2.exe AND NOW U DONE
 
 ---------------------------------------
 
