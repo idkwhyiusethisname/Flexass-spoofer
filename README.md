@@ -8,7 +8,7 @@
   <h2 align="center">Name Said it all</h2>
 
   <p align="center">
-    Flexass hwid spoofer hehehehe use to spoof their death nuker</b>)
+    Flexass nuker but got reverse</b>)
     <br />
   </p>
 </div>
@@ -16,15 +16,10 @@
 ---------------------------------------
 
 ### ⚙️ How to use 101
-* Spoofer: `run spoofer.exe` REQUIRE RUN AS ADMIN CUZ IT EDIT REG
-* Run: `flexass.exe`
+* Run: `Flexyzzz Nuker.exe`
 
 ---------------------------------------
 
-### ALL CODE BY REGENXY HELPER BY MARTY
-
-### update = add new reg and groff ahh proass.py
-
-### check program here if it start u can use it if not go die `https://pastebin.com/raw/jJ7dPLtW`
+### STOP MAKEING SPOOFFER CUZ LAZY IF U WANT ME TO DO STAR THE REPO HEHE
 
 ### FUCK t0nxnthanaphat0_ L
